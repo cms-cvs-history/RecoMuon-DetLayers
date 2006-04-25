@@ -1,0 +1,9 @@
+<use name=RecoMuon/DetLayers>
+<use name=RecoMuon/Records>
+<use name=FWCore/Framework
+<use name=Geometry/CSCGeometryBuilder>
+
+<flags SEAL_PLUGIN_NAME="testCSCRecoGeometry">
+<library file=CSCRecoGeometryAnalyzer.cc name=testCSCRecoGeometry>
+</library>
+
