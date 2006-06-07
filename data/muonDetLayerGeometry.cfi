@@ -1,0 +1,5 @@
+#
+# This cfi should be included to build the muon DetLayers.
+#
+
+es_module = MuonDetLayerGeometryESProducer { }
