@@ -2,7 +2,7 @@
 <use name=RecoMuon/Records>
 <use name=FWCore/Framework>
 
-<flags SEAL_PLUGIN_NAME="testMuonRecoGeometry">
+<flags EDM_PLUGIN=1>
 
 <library file=MuonRecoGeometryAnalyzer.cc name=testMuonRecoGeometry>
  <use name=clhep>
